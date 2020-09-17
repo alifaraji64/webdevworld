@@ -1,0 +1,15 @@
+@import './variables';
+@import './globals';
+.logo {
+	transform: scale(2);
+}
+header {
+	nav {
+		height: 4.3em;
+		.burger {
+			svg {
+				color: $darkblue;
+			}
+		}
+	}
+}

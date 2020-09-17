@@ -1,0 +1,16 @@
+.button.red {
+	background: $red;
+}
+.button.lightblue {
+	background: $lightblue;
+}
+.button.darkblue {
+	background: $darkblue;
+}
+//these classes are only awailable for large screens
+@media screen and (min-width: 960px) {
+	.circle-btn {
+		border-radius: 100%;
+		padding: 1.2rem 0.5rem;
+	}
+}

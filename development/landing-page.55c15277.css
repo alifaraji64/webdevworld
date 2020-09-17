@@ -1,0 +1,30 @@
+.button.red {
+  background: #e63946;
+}
+
+.button.lightblue {
+  background: #2389ff;
+}
+
+.button.darkblue {
+  background: #457b9d;
+}
+
+@media screen and (min-width: 960px) {
+  .circle-btn {
+    border-radius: 100%;
+    padding: 1.2rem 0.5rem;
+  }
+}
+.logo {
+  transform: scale(2);
+}
+
+header nav {
+  height: 4.3em;
+}
+header nav .burger svg {
+  color: #457b9d;
+}
+
+/*# sourceMappingURL=/landing-page.55c15277.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\src\\scss\\app.scss"],"names":[],"mappings":"AAAA;EACC;EACA","file":"main.188a800e.css","sourceRoot":"..\\public","sourcesContent":["h1 {\r\n\tfont-family: Arial;\r\n\tcolor: blue;\r\n}\r\n"]}
